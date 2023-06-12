@@ -7,7 +7,7 @@ Aula de Informatica - produção de README
 turma do 2SESC-Informatica
 <hr>
 **GITHUB**
-_github_
+_Github_
 
 <!--
 **CibeleKawasakiNinja/CibeleKawasakiNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
