@@ -15,15 +15,13 @@ turma do 2SESC-Informatica
 
 _Github_
 
--[ ]opção 1
- 
--[ ]opção 2
-
--[ ]opção 3
+- [ ]opção 1
+ - [ ]opção 2
+- [ ]opção 3
 
 
 ***
-{senac}(https://www.sescpr.com.br/)
+[senac](https://www.sescpr.com.br/)
 
 <!--
 **CibeleKawasakiNinja/CibeleKawasakiNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
