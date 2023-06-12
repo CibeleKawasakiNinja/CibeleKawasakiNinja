@@ -4,6 +4,7 @@ Aula do 12/06/2023
 <b>SESC CENTRO</b>
 <hr>
 Aula de Informatica - produção de README 
+
 turma do 2SESC-Informatica
 <hr>
 **GITHUB**
