@@ -11,11 +11,13 @@ turma do 2SESC-Informatica
 <br>
 1.aula1
 
-0.aula2
+0.aula2  
+
 
 1.aula3
 
 _Github_
+
 -[]opção 1
 
 -[]opção 2
