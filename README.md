@@ -1,4 +1,7 @@
-### Hi there 👋
+### Bem vindo a minha página! 👋
+<h2> Cibele Kawasaki </h2>
+Aula do 12/06/2023
+<b>SESC CENTRO</b>
 
 <!--
 **CibeleKawasakiNinja/CibeleKawasakiNinja** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
